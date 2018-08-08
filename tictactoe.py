@@ -114,4 +114,3 @@ while True:
                      game_on = False
                 else:
                     turn = 'player1'
-
